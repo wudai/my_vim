@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/matao_a/work/pear/MI-Config'
+let g:netrw_dirhist_2='/home/matao_a/work/pear/MI-Asset'
+let g:netrw_dirhist_3='/home/matao_a/work/pear/MI-Asset/src'
+let g:netrw_dirhist_4='/home/matao_a/work/pear/MI-Asset/src/MI'
+let g:netrw_dirhist_5='/home/matao_a/work/pear/MI-Msg/src/MI'
+let g:netrw_dirhist_6='/home/matao_a/work/pear/MI-Msg/src'
